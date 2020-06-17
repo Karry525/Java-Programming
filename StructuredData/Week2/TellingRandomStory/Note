@@ -1,0 +1,10 @@
+Programming Exercise: Telling a Random Story
+
+Assignment 1: Most Frequent Word
+You will write a program to determine the word that occurs the most often in a file. If more than one word occurs as the most often, then
+return the first such word found. You should make all words lowercase before counting them. Thus, “This” and “this” will both be counted 
+as the lowercase version of “this”. You should not consider punctuation, so “end” and “end,” will be considered different words. Use the
+WordFrequencies program in the lesson as a starting point.
+
+Assignment 2: Character Names
+Write a program to determine the characters in one of Shakespeare’s plays that have the most speaking parts.
