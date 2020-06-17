@@ -1,0 +1,10 @@
+Programming Exercise: Reading Log Files
+
+Assignment: Reading Web Logs
+In this assignment you will complete the program to read and print web logs that was described in the lesson.
+You will start with the files provided, which include:
+
+The class LogEntry from the lesson that has five private variables, a constructor, five get methods to access the private fields, and a toString method for printing out a LogEntry.
+The Class LogAnalyzer, which has been started for you.
+The Class WebLogParser, which we are providing. You should not edit this file—just use its parseEntry method.
+The Tester class from the lesson, which has been started for you.
