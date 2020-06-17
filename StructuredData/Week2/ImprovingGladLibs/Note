@@ -1,0 +1,14 @@
+Programming Exercise: Improving GladLibs
+
+Assignment 1: Codon Count
+Write a program to find out how many times each codon occurs in a strand of DNA based on reading frames. A strand of DNA is made up of the
+symbols C, G, T, and A. A codon is three consecutive symbols in a strand of DNA such as ATT or TCC. A reading frame is a way of dividing a
+strand of DNA into consecutive codons. Consider the following strand of DNA = “CGTTCAAGTTCAA”.
+
+Assignment 2: Words in Files
+Write a program to determine which words occur in the greatest number of files, and for each word, which files they occur in.
+
+Assignment 3: Maps Version of GladLibs
+Start with your GladLibs program you completed earlier in this lesson. Make a copy of it and call it GladLibMap.java. Now modify this 
+program to use one HashMap that maps word types to ArrayList of possible words to select. Your program should still work for the additional
+categories verbs and fruits and should not use duplicate words from a category. 
