@@ -1,0 +1,9 @@
+Programming Exercise: Breaking the Caesar Cipher
+Assignment 1: Word lengths
+You will write a program to figure out the most common word length of words from a file. 
+To solve this problem you will need to keep track of how many words from a file are of each possible length. 
+You should group all words of length 30 or more together, and you should not count basic punctuation that are the first or last characters of a group of characters.
+Assignment 2: Caesar Cipher Two Keys Decrypt
+You should start by writing the decryption method explained in the lesson that decrypts a message that was encrypted with one key, using statistical letter frequencies of English text. 
+Then you will add code to be able to decrypt a message that was encrypted with two keys, using ideas from the single key decryption method and the encryption with two keys method from 
+the program you wrote in the last lesson.
