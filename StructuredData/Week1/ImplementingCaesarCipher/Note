@@ -1,0 +1,6 @@
+Programming Exercise: Batch Grayscale and Image Inversion
+Assignment 1: Word Play
+You will write a program to transform words from a file into another form, such as replacing vowels with an asterix.
+Assignment 2: Caesar Cipher
+You will start with the Caesar Cipher algorithm you learned about in the videos, and you will make some enhancements to it, so that 
+it works with all letters (both uppercase and lowercase) and to make it a little bit harder to decrypt. 
